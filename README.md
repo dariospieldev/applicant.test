@@ -5,4 +5,4 @@ juego a los siguientes contactos: dario@spieldev.com y fernando@spieldev.com .
 
 La consigna se encuentra descripta en el archivo: Spieldev - Applicant Technical Test.pdf
 
-Demo: http://www.spieldevdemo.com/applicant-test/
+Demo: http://games.spieldev.com/applicant-test/
